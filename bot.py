@@ -37,6 +37,7 @@ if __name__ == "__main__":
         e=ImageGr() 
         if e!=1530:
             jump()
+            restart()
             x=x+1
             print(x)
              
